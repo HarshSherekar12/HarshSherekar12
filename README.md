@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shereksr_harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shereksr_harsh" height="30" width="40" /></a>
-<a href="https://instagram.com/harshsherekar_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshsherekar_13" height="30" width="40" /></a>
+<a href="https://twitter.com/sherekar_harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shereksr_harsh" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_sherekar13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshsherekar_13" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/supertechbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supertechbro" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshtc13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshtc13" height="30" width="40" /></a>
 </p>
