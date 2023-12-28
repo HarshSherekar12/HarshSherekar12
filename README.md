@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Sherekar</h1>
 <h3 align="center">A passionate WebDeveloper from India</h3>
-img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU"
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsherekar12&label=Profile%20views&color=0e75b6&style=flat" alt="harshsherekar12" /> </p>
 
